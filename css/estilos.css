@@ -1,15 +1,116 @@
 body {
-    background-color: #F197CA;
+    /*background-color: #F197CA;*/
+    background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/70/25/Lb78kc.jpg);
+    background-attachment: fixed;
 }
 
 table {
     background-color: #ED0086;
+    width: 90%;
+    border-collapse: collapse;
 }
 
 tr {
     background-color: #FB729E;
+    text-align: center;
 }
 
 td {
     background-color: #FCA0BD;
+    border: 3px solid #ED0086;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    background-color: #f68aaa;
+    text-align: center;
+    height:
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#besoabeso {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#chayanne {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#elmismoaire {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#diganle {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#lacabaña {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#lacolaless {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#lomejordelamor {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#ochocuarenta {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#yerbamala {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#yotomolicor {
+    background-image: url(https://fondosmil.com/fondo/25108.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
